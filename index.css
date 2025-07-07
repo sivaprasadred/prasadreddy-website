@@ -31,7 +31,17 @@ header h1 {
   padding-top: 90px;
 
 }
-.js-button:hover{
+.js-button1:hover{
+ background-color: black;
+  color:white;
+  font-size:30px;
+}
+.js-button2:hover{
+ background-color: black;
+  color:white;
+  font-size:30px;
+}
+.js-button3:hover{
  background-color: black;
   color:white;
   font-size:30px;
@@ -68,7 +78,7 @@ button {
 }
 
 footer {
-  margin-top: 80px;
+  margin-top: 100px;
   text-align: center;
   padding-top: 60px;
   background: #111e2e;
