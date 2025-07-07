@@ -1,0 +1,71 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #eef7ff;
+  color: #222;
+}
+.js-logo{
+  width:300px;
+}
+header {
+  text-align: center;
+  padding: 10px;
+  background: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  border-radius: 4%;
+  width: auto;
+}
+
+header img {
+  width: 80px;
+  vertical-align: middle;
+}
+
+header h1 {
+  display: inline-block;
+  margin-left: 20px;
+  font-size: 28px;
+}
+
+.js-main{
+  padding: 65px;
+
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  gap: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background: #2292f0;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.error {
+  text-align: center;
+  color: red;
+  margin-top: 10px;
+}
+.js-wait{
+  color:green
+}
+.internships {
+  text-align: center;
+  margin-top: 30px;
+}
+
+footer {
+  margin-top: 80px;
+  text-align: center;
+  padding: 20px;
+  background: #111e2e;
+  color: white;
+}
