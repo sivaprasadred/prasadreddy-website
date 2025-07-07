@@ -31,6 +31,11 @@ header h1 {
   padding-bottom: 90px;
 
 }
+.js-main:hover{
+ background-color: black;
+  color:white;
+  font-size:30px;
+}
 
 .buttons {
   display: flex;
